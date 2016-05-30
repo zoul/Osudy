@@ -2,9 +2,10 @@
 <rss version="2.0">
 <channel>
 <title>Osudy</title>
+<description>Autentické vzpomínky významných a zajímavých osobností zaznamenané na mikrofon a memoárová literatura převážně nežijících a zahraničních autorů čtená herci. Ojedinělá svědectví lidské paměti.</description>
 <link>http://zoul.github.io/Osudy</link>
-<language>cs_CZ</language>
-<lastBuildDate>2016-05-30 18:05:44 +0000</lastBuildDate>
+<language>cs</language>
+<lastBuildDate>Mon, 30 May 2016 20:00:00 +0200</lastBuildDate>
 <item>
 <title>27.5.2016 11:30 Pavel Kosatík: Baronka v opeře (5/10). Výběr z knihy Život a zpívání Jarmily Novotné, zářivé operní divy. Účinkuje T. Medvecká. (do 2. 6. 2016)
 </title>
@@ -67,3 +68,4 @@
 </item>
 </channel>
 </rss>
+
