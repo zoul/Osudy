@@ -100,10 +100,9 @@ func renderChannelWithItems(items: [AudioItem]) {
     print("<language>cs</language>")
     print("<lastBuildDate>\(RFC822DateFormatter.stringFromDate(NSDate()))</lastBuildDate>")
     print("<atom:link href=\"http://zoul.github.io/Osudy/feed.xml\" rel=\"self\" type=\"application/rss+xml\" />")
-    items.forEach { renderAudioItem($0) }
+    items.forEach(renderAudioItem)
     print("</channel>")
     print("</rss>")
 }
 
-let items = listAllArchiveURLs().flatMap({ listAllItemNodesAtURL($0) }).flatMap({ parseItemNode($0) })
-renderChannelWithItems(items)
+renderChannelWithItems(listAllArchiveURLs().flatMap(listAllItemNodesAtURL).flatMap(parseItemNode))
