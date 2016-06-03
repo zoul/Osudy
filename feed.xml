@@ -3,710 +3,718 @@
 <channel>
 <title>Osudy</title>
 <description>Autentické vzpomínky významných a zajímavých osobností zaznamenané na mikrofon a memoárová literatura převážně nežijících a zahraničních autorů čtená herci. Ojedinělá svědectví lidské paměti.</description>
+<copyright>Český rozhlas Vltava</copyright>
 <link>http://zoul.github.io/Osudy/</link>
 <itunes:image href="http://i.imgur.com/hIZLilw.jpg"/>
 <itunes:explicit>No</itunes:explicit>
+<itunes:category text="Society & Culture">
+<itunes:category text="Personal Journals"/>
+</itunes:category>
+<itunes:owner>
+<itunes:name>Tomáš Znamenáček</itunes:name>
+<itunes:email>tomas.znamenacek@gmail.com</itunes:email>
+</itunes:owner>
 <language>cs</language>
-<lastBuildDate>Tue, 31 May 2016 09:11:08 +0200</lastBuildDate>
+<lastBuildDate>Fri, 03 Jun 2016 10:08:06 +0200</lastBuildDate>
 <atom:link href="http://zoul.github.io/Osudy/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Pavel Kosatík: Baronka v opeře (9/10). Výběr z knihy Život a zpívání Jarmily Novotné, zářivé operní divy. Účinkuje T. Medvecká. (do 8. 6. 2016)</title>
+<link>http://media.rozhlas.cz/_audio/3631694.mp3</link>
+<guid>http://media.rozhlas.cz/_audio/3631694.mp3</guid>
+<enclosure url="http://media.rozhlas.cz/_audio/3631694.mp3" type="audio/mpeg" length="26805376"/>
+<pubDate>Thu, 02 Jun 2016 11:30:00 +0200</pubDate>
+</item>
+<item>
+<title>Pavel Kosatík: Baronka v opeře (8/10). Výběr z knihy Život a zpívání Jarmily Novotné, zářivé operní divy. Účinkuje T. Medvecká. (do 7. 6. 2016)</title>
+<link>http://media.rozhlas.cz/_audio/3631693.mp3</link>
+<guid>http://media.rozhlas.cz/_audio/3631693.mp3</guid>
+<enclosure url="http://media.rozhlas.cz/_audio/3631693.mp3" type="audio/mpeg" length="26422528"/>
+<pubDate>Wed, 01 Jun 2016 11:30:00 +0200</pubDate>
+</item>
+<item>
+<title>Pavel Kosatík: Baronka v opeře (7/10). Výběr z knihy Život a zpívání Jarmily Novotné, zářivé operní divy. Účinkuje T. Medvecká. (do 6. 6. 2016)</title>
+<link>http://media.rozhlas.cz/_audio/3631692.mp3</link>
+<guid>http://media.rozhlas.cz/_audio/3631692.mp3</guid>
+<enclosure url="http://media.rozhlas.cz/_audio/3631692.mp3" type="audio/mpeg" length="27072640"/>
+<pubDate>Tue, 31 May 2016 11:30:00 +0200</pubDate>
+</item>
 <item>
 <title>Pavel Kosatík: Baronka v opeře (6/10). Výběr z knihy Život a zpívání Jarmily Novotné, zářivé operní divy. Účinkuje T. Medvecká. (do 5. 6. 2016)</title>
 <link>http://media.rozhlas.cz/_audio/3631691.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3631691.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3631691.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3631691.mp3" type="audio/mpeg" length="26532352"/>
 <pubDate>Mon, 30 May 2016 11:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Pavel Kosatík: Baronka v opeře (5/10). Výběr z knihy Život a zpívání Jarmily Novotné, zářivé operní divy. Účinkuje T. Medvecká. (do 2. 6. 2016)</title>
-<link>http://media.rozhlas.cz/_audio/3631690.mp3</link>
-<guid>http://media.rozhlas.cz/_audio/3631690.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3631690.mp3" type="audio/mpeg"/>
-<pubDate>Fri, 27 May 2016 11:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Pavel Kosatík: Baronka v opeře (4/10). Výběr z knihy Život a zpívání Jarmily Novotné, zářivé operní divy. Účinkuje T. Medvecká. (do 1. 6. 2016)</title>
-<link>http://media.rozhlas.cz/_audio/3631689.mp3</link>
-<guid>http://media.rozhlas.cz/_audio/3631689.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3631689.mp3" type="audio/mpeg"/>
-<pubDate>Thu, 26 May 2016 11:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Pavel Kosatík: Baronka v opeře (3/10). Výběr z knihy Život a zpívání Jarmily Novotné, zářivé operní divy. Účinkuje T. Medvecká. (do 31. 5. 2016)</title>
-<link>http://media.rozhlas.cz/_audio/3631688.mp3</link>
-<guid>http://media.rozhlas.cz/_audio/3631688.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3631688.mp3" type="audio/mpeg"/>
-<pubDate>Wed, 25 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Libor Pešek, český i světový dirigent (5/5).</title>
 <link>http://media.rozhlas.cz/_audio/3624962.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3624962.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3624962.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3624962.mp3" type="audio/mpeg" length="26476672"/>
 <pubDate>Fri, 20 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Libor Pešek, český i světový dirigent (4/5).</title>
 <link>http://media.rozhlas.cz/_audio/3624961.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3624961.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3624961.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3624961.mp3" type="audio/mpeg" length="25442944"/>
 <pubDate>Thu, 19 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Libor Pešek, český i světový dirigent (3/5).</title>
 <link>http://media.rozhlas.cz/_audio/3624960.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3624960.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3624960.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3624960.mp3" type="audio/mpeg" length="25743232"/>
 <pubDate>Wed, 18 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Libor Pešek, český i světový dirigent (2/5).</title>
 <link>http://media.rozhlas.cz/_audio/3624959.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3624959.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3624959.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3624959.mp3" type="audio/mpeg" length="27441664"/>
 <pubDate>Tue, 17 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Libor Pešek, český i světový dirigent (1/5).</title>
 <link>http://media.rozhlas.cz/_audio/3624958.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3624958.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3624958.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3624958.mp3" type="audio/mpeg" length="26080000"/>
 <pubDate>Mon, 16 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eliška Fučíková, historička umění, specialistka na rudolfinské období 16. a 17. století (10/10).</title>
 <link>http://media.rozhlas.cz/_audio/3619746.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3619746.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3619746.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3619746.mp3" type="audio/mpeg" length="27505024"/>
 <pubDate>Fri, 13 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eliška Fučíková, historička umění, specialistka na rudolfinské období 16. a 17. století (9/10).</title>
 <link>http://media.rozhlas.cz/_audio/3619745.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3619745.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3619745.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3619745.mp3" type="audio/mpeg" length="26736256"/>
 <pubDate>Thu, 12 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eliška Fučíková, historička umění, specialistka na rudolfinské období 16. a 17. století (8/10).</title>
 <link>http://media.rozhlas.cz/_audio/3619744.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3619744.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3619744.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3619744.mp3" type="audio/mpeg" length="27455104"/>
 <pubDate>Wed, 11 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eliška Fučíková, historička umění, specialistka na rudolfinské období 16. a 17. století (7/10).</title>
 <link>http://media.rozhlas.cz/_audio/3619743.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3619743.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3619743.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3619743.mp3" type="audio/mpeg" length="27150592"/>
 <pubDate>Tue, 10 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eliška Fučíková, historička umění, specialistka na rudolfinské období 16. a 17. století (6/10).</title>
 <link>http://media.rozhlas.cz/_audio/3619742.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3619742.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3619742.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3619742.mp3" type="audio/mpeg" length="26817280"/>
 <pubDate>Mon, 09 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eliška Fučíková, historička umění, specialistka na rudolfinské období 16. a 17. století (5/10).</title>
 <link>http://media.rozhlas.cz/_audio/3616341.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3616341.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3616341.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3616341.mp3" type="audio/mpeg" length="27485824"/>
 <pubDate>Fri, 06 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eliška Fučíková, historička umění, specialistka na rudolfinské období 16. a 17. století (4/10).</title>
 <link>http://media.rozhlas.cz/_audio/3616340.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3616340.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3616340.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3616340.mp3" type="audio/mpeg" length="27511552"/>
 <pubDate>Thu, 05 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eliška Fučíková, historička umění, specialistka na rudolfinské období 16. a 17. století (3/10).</title>
 <link>http://media.rozhlas.cz/_audio/3616339.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3616339.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3616339.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3616339.mp3" type="audio/mpeg" length="27398656"/>
 <pubDate>Wed, 04 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eliška Fučíková, historička umění, specialistka na rudolfinské období 16. a 17. století (2/10).</title>
 <link>http://media.rozhlas.cz/_audio/3616338.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3616338.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3616338.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3616338.mp3" type="audio/mpeg" length="27181312"/>
 <pubDate>Tue, 03 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eliška Fučíková, historička umění, specialistka na rudolfinské období 16. a 17. století (1/10).</title>
 <link>http://media.rozhlas.cz/_audio/3616337.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3616337.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3616337.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3616337.mp3" type="audio/mpeg" length="26963584"/>
 <pubDate>Mon, 02 May 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Jan Sokol, filozof, překladatel a vysokoškolský pedagog (10/10).</title>
 <link>http://media.rozhlas.cz/_audio/3610097.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3610097.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3610097.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3610097.mp3" type="audio/mpeg" length="26878336"/>
 <pubDate>Fri, 29 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Jan Sokol, filozof, překladatel a vysokoškolský pedagog (9/10).</title>
 <link>http://media.rozhlas.cz/_audio/3610096.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3610096.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3610096.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3610096.mp3" type="audio/mpeg" length="26956288"/>
 <pubDate>Thu, 28 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Jan Sokol, filozof, překladatel a vysokoškolský pedagog (8/10).</title>
 <link>http://media.rozhlas.cz/_audio/3610095.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3610095.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3610095.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3610095.mp3" type="audio/mpeg" length="26957056"/>
 <pubDate>Wed, 27 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Jan Sokol, filozof, překladatel a vysokoškolský pedagog (7/10).</title>
 <link>http://media.rozhlas.cz/_audio/3610094.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3610094.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3610094.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3610094.mp3" type="audio/mpeg" length="26915584"/>
 <pubDate>Tue, 26 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Jan Sokol, filozof, překladatel a vysokoškolský pedagog (6/10).</title>
 <link>http://media.rozhlas.cz/_audio/3610093.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3610093.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3610093.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3610093.mp3" type="audio/mpeg" length="26879872"/>
 <pubDate>Mon, 25 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Jan Sokol, filozof, překladatel a vysokoškolský pedagog (5/10).</title>
 <link>http://media.rozhlas.cz/_audio/3605784.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3605784.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3605784.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3605784.mp3" type="audio/mpeg" length="26935552"/>
 <pubDate>Fri, 22 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Jan Sokol, filozof, překladatel a vysokoškolský pedagog (4/10).</title>
 <link>http://media.rozhlas.cz/_audio/3605783.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3605783.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3605783.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3605783.mp3" type="audio/mpeg" length="26911744"/>
 <pubDate>Thu, 21 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Jan Sokol, filozof, překladatel a vysokoškolský pedagog (3/10).</title>
 <link>http://media.rozhlas.cz/_audio/3605782.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3605782.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3605782.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3605782.mp3" type="audio/mpeg" length="26900224"/>
 <pubDate>Wed, 20 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Jan Sokol, filozof, překladatel a vysokoškolský pedagog (2/10).</title>
 <link>http://media.rozhlas.cz/_audio/3605781.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3605781.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3605781.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3605781.mp3" type="audio/mpeg" length="26867584"/>
 <pubDate>Tue, 19 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Jan Sokol, filozof, překladatel a vysokoškolský pedagog (1/10).</title>
 <link>http://media.rozhlas.cz/_audio/3605780.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3605780.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3605780.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3605780.mp3" type="audio/mpeg" length="26925952"/>
 <pubDate>Mon, 18 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eva Stehlíková, znalkyně antického a středověkého latinského divadla (5/5).</title>
 <link>http://media.rozhlas.cz/_audio/3605468.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3605468.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3605468.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3605468.mp3" type="audio/mpeg" length="21126400"/>
 <pubDate>Fri, 15 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eva Stehlíková, znalkyně antického a středověkého latinského divadla (4/5).</title>
 <link>http://media.rozhlas.cz/_audio/3605467.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3605467.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3605467.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3605467.mp3" type="audio/mpeg" length="24057088"/>
 <pubDate>Thu, 14 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eva Stehlíková, znalkyně antického a středověkého latinského divadla (3/5).</title>
 <link>http://media.rozhlas.cz/_audio/3605466.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3605466.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3605466.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3605466.mp3" type="audio/mpeg" length="24871936"/>
 <pubDate>Wed, 13 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eva Stehlíková, znalkyně antického a středověkého latinského divadla (2/5).</title>
 <link>http://media.rozhlas.cz/_audio/3605465.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3605465.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3605465.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3605465.mp3" type="audio/mpeg" length="25825792"/>
 <pubDate>Tue, 12 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Eva Stehlíková, znalkyně antického a středověkého latinského divadla (1/5).</title>
 <link>http://media.rozhlas.cz/_audio/3605464.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3605464.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3605464.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3605464.mp3" type="audio/mpeg" length="25710976"/>
 <pubDate>Mon, 11 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Radko Pytlík, literární historik, spisovatel a editor (4/4).</title>
 <link>http://media.rozhlas.cz/_audio/3600800.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3600800.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3600800.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3600800.mp3" type="audio/mpeg" length="25983616"/>
 <pubDate>Thu, 07 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Radko Pytlík, literární historik, spisovatel a editor (3/4).</title>
 <link>http://media.rozhlas.cz/_audio/3600799.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3600799.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3600799.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3600799.mp3" type="audio/mpeg" length="27615616"/>
 <pubDate>Wed, 06 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Radko Pytlík, literární historik, spisovatel a editor (2/4).</title>
 <link>http://media.rozhlas.cz/_audio/3600798.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3600798.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3600798.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3600798.mp3" type="audio/mpeg" length="26659072"/>
 <pubDate>Tue, 05 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Radko Pytlík, literární historik, spisovatel a editor (1/4).</title>
 <link>http://media.rozhlas.cz/_audio/3600797.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3600797.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3600797.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3600797.mp3" type="audio/mpeg" length="24921472"/>
 <pubDate>Mon, 04 Apr 2016 11:30:00 +0200</pubDate>
 </item>
 <item>
 <title>Vlasta Winkelhöferová, česká japanistka, překladatelka a autorka (5/5).</title>
 <link>http://media.rozhlas.cz/_audio/3583987.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3583987.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3583987.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3583987.mp3" type="audio/mpeg" length="27216640"/>
 <pubDate>Fri, 18 Mar 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Vlasta Winkelhöferová, česká japanistka, překladatelka a autorka (4/5).</title>
 <link>http://media.rozhlas.cz/_audio/3583986.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3583986.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3583986.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3583986.mp3" type="audio/mpeg" length="26401024"/>
 <pubDate>Thu, 17 Mar 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Vlasta Winkelhöferová, česká japanistka, překladatelka a autorka (3/5).</title>
 <link>http://media.rozhlas.cz/_audio/3583984.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3583984.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3583984.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3583984.mp3" type="audio/mpeg" length="27215104"/>
 <pubDate>Wed, 16 Mar 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Vlasta Winkelhöferová, česká japanistka, překladatelka a autorka (2/5).</title>
 <link>http://media.rozhlas.cz/_audio/3583982.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3583982.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3583982.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3583982.mp3" type="audio/mpeg" length="27586816"/>
 <pubDate>Tue, 15 Mar 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Vlasta Winkelhöferová, česká japanistka, překladatelka a autorka (1/5).</title>
 <link>http://media.rozhlas.cz/_audio/3583981.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3583981.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3583981.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3583981.mp3" type="audio/mpeg" length="27031168"/>
 <pubDate>Mon, 14 Mar 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Daniel Špička, architekt, designér a hudebník (5/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/3574505.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3574505.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3574505.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3574505.mp3" type="audio/mpeg" length="26759296"/>
 <pubDate>Fri, 04 Mar 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Daniel Špička, architekt, designér a hudebník (4/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/3574504.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3574504.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3574504.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3574504.mp3" type="audio/mpeg" length="26126080"/>
 <pubDate>Thu, 03 Mar 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Daniel Špička, architekt, designér a hudebník (3/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/3574503.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3574503.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3574503.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3574503.mp3" type="audio/mpeg" length="26336896"/>
 <pubDate>Wed, 02 Mar 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Daniel Špička, architekt, designér a hudebník (2/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/3574502.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3574502.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3574502.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3574502.mp3" type="audio/mpeg" length="27114880"/>
 <pubDate>Tue, 01 Mar 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Daniel Špička, architekt, designér a hudebník (1/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/3574501.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3574501.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3574501.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3574501.mp3" type="audio/mpeg" length="26836480"/>
 <pubDate>Mon, 29 Feb 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Robert Kvaček, historik, odborník na moderní československé dějiny, pedagog a popularizátor, člen Učené společnosti ČR (5/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/2849245.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/2849245.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/2849245.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/2849245.mp3" type="audio/mpeg" length="26769280"/>
 <pubDate>Fri, 26 Feb 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Robert Kvaček, historik, odborník na moderní československé dějiny, pedagog a popularizátor, člen Učené společnosti ČR (4/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/2849249.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/2849249.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/2849249.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/2849249.mp3" type="audio/mpeg" length="26872576"/>
 <pubDate>Thu, 25 Feb 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Robert Kvaček, historik, odborník na moderní československé dějiny, pedagog a popularizátor, člen Učené společnosti ČR (3/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/2849248.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/2849248.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/2849248.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/2849248.mp3" type="audio/mpeg" length="26795392"/>
 <pubDate>Wed, 24 Feb 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Robert Kvaček, historik, odborník na moderní československé dějiny, pedagog a popularizátor, člen Učené společnosti ČR (2/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/2849247.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/2849247.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/2849247.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/2849247.mp3" type="audio/mpeg" length="26829568"/>
 <pubDate>Tue, 23 Feb 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Robert Kvaček, historik, odborník na moderní československé dějiny, pedagog a popularizátor, člen Učené společnosti ČR (1/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/2849246.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/2849246.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/2849246.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/2849246.mp3" type="audio/mpeg" length="26831104"/>
 <pubDate>Mon, 22 Feb 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Zuzana Justman, roz. Pick, filmová dokumentaristka, překladatelka a spisovatelka, která přežila Terezín a v roce 1948 opustila Československo (5/5).</title>
 <link>http://media.rozhlas.cz/_audio/3569730.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3569730.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3569730.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3569730.mp3" type="audio/mpeg" length="26099200"/>
 <pubDate>Fri, 19 Feb 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Zuzana Justman, roz. Pick, filmová dokumentaristka, překladatelka a spisovatelka, která přežila Terezín a v roce 1948 opustila Československo (4/5).</title>
 <link>http://media.rozhlas.cz/_audio/3565514.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3565514.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3565514.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3565514.mp3" type="audio/mpeg" length="26416000"/>
 <pubDate>Thu, 18 Feb 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Zuzana Justman, roz. Pick, filmová dokumentaristka, překladatelka a spisovatelka, která přežila Terezín a v roce 1948 opustila Československo (3/5).</title>
 <link>http://media.rozhlas.cz/_audio/3565513.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3565513.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3565513.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3565513.mp3" type="audio/mpeg" length="27693184"/>
 <pubDate>Wed, 17 Feb 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Zuzana Justman, roz. Pick, filmová dokumentaristka, překladatelka a spisovatelka, která přežila Terezín a v roce 1948 opustila Československo (2/5).</title>
 <link>http://media.rozhlas.cz/_audio/3565512.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3565512.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3565512.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3565512.mp3" type="audio/mpeg" length="27360256"/>
 <pubDate>Tue, 16 Feb 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Zuzana Justman, roz. Pick, filmová dokumentaristka, překladatelka a spisovatelka, která přežila Terezín a v roce 1948 opustila Československo (1/5).</title>
 <link>http://media.rozhlas.cz/_audio/3565511.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3565511.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3565511.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3565511.mp3" type="audio/mpeg" length="25878400"/>
 <pubDate>Mon, 15 Feb 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Lubomír Martínek, spisovatel a překladatel (10/10).</title>
 <link>http://media.rozhlas.cz/_audio/3547884.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3547884.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3547884.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3547884.mp3" type="audio/mpeg" length="26481664"/>
 <pubDate>Fri, 22 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Lubomír Martínek, spisovatel a překladatel (9/10).</title>
 <link>http://media.rozhlas.cz/_audio/3547883.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3547883.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3547883.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3547883.mp3" type="audio/mpeg" length="28313728"/>
 <pubDate>Thu, 21 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Lubomír Martínek, spisovatel a překladatel (8/10).</title>
 <link>http://media.rozhlas.cz/_audio/3547882.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3547882.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3547882.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3547882.mp3" type="audio/mpeg" length="27882496"/>
 <pubDate>Wed, 20 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Lubomír Martínek, spisovatel a překladatel (7/10).</title>
 <link>http://media.rozhlas.cz/_audio/3547881.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3547881.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3547881.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3547881.mp3" type="audio/mpeg" length="26960512"/>
 <pubDate>Tue, 19 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Lubomír Martínek, spisovatel a překladatel (6/10).</title>
 <link>http://media.rozhlas.cz/_audio/3547880.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3547880.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3547880.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3547880.mp3" type="audio/mpeg" length="28008064"/>
 <pubDate>Mon, 18 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Lubomír Martínek, spisovatel a překladatel (5/10).</title>
 <link>http://media.rozhlas.cz/_audio/3542938.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3542938.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3542938.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3542938.mp3" type="audio/mpeg" length="27260800"/>
 <pubDate>Fri, 15 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Lubomír Martínek, spisovatel a překladatel (4/10).</title>
 <link>http://media.rozhlas.cz/_audio/3542937.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3542937.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3542937.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3542937.mp3" type="audio/mpeg" length="28503040"/>
 <pubDate>Thu, 14 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Lubomír Martínek, spisovatel a překladatel (3/10).</title>
 <link>http://media.rozhlas.cz/_audio/3542936.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3542936.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3542936.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3542936.mp3" type="audio/mpeg" length="27245056"/>
 <pubDate>Wed, 13 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Lubomír Martínek, spisovatel a překladatel (2/10).</title>
 <link>http://media.rozhlas.cz/_audio/3542935.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3542935.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3542935.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3542935.mp3" type="audio/mpeg" length="27069952"/>
 <pubDate>Tue, 12 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Lubomír Martínek, spisovatel a překladatel (1/10).</title>
 <link>http://media.rozhlas.cz/_audio/3542934.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3542934.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3542934.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3542934.mp3" type="audio/mpeg" length="26467456"/>
 <pubDate>Mon, 11 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Josef Jařab, anglista, amerikanista a vysokoškolský pedagog (5/5).</title>
 <link>http://media.rozhlas.cz/_audio/3539586.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3539586.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3539586.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3539586.mp3" type="audio/mpeg" length="22822144"/>
 <pubDate>Fri, 08 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Josef Jařab, anglista, amerikanista a vysokoškolský pedagog (4/5).</title>
 <link>http://media.rozhlas.cz/_audio/3539585.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3539585.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3539585.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3539585.mp3" type="audio/mpeg" length="20357632"/>
 <pubDate>Thu, 07 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Josef Jařab, anglista, amerikanista a vysokoškolský pedagog (3/5).</title>
 <link>http://media.rozhlas.cz/_audio/3539584.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3539584.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3539584.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3539584.mp3" type="audio/mpeg" length="25446016"/>
 <pubDate>Wed, 06 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Josef Jařab, anglista, amerikanista a vysokoškolský pedagog (2/5).</title>
 <link>http://media.rozhlas.cz/_audio/3539583.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3539583.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3539583.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3539583.mp3" type="audio/mpeg" length="24669952"/>
 <pubDate>Tue, 05 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Josef Jařab, anglista, amerikanista a vysokoškolský pedagog (1/5).</title>
 <link>http://media.rozhlas.cz/_audio/3539582.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3539582.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3539582.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3539582.mp3" type="audio/mpeg" length="24505216"/>
 <pubDate>Mon, 04 Jan 2016 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Alexandra Myšková, česká herečka, pedagožka a divadelní režisérka, žijící v Norsku (3/3). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/2883345.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/2883345.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/2883345.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/2883345.mp3" type="audio/mpeg" length="25945600"/>
 <pubDate>Wed, 30 Dec 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Alexandra Myšková, česká herečka, pedagožka a divadelní režisérka, žijící v Norsku (2/3). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/2883344.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/2883344.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/2883344.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/2883344.mp3" type="audio/mpeg" length="25667200"/>
 <pubDate>Tue, 29 Dec 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Alexandra Myšková, česká herečka, pedagožka a divadelní režisérka, žijící v Norsku (1/3). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/2883343.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/2883343.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/2883343.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/2883343.mp3" type="audio/mpeg" length="26692480"/>
 <pubDate>Mon, 28 Dec 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Jindřich Vacek, překladatel a lingvista, laureát ceny Josefa Jungmana (5/5).</title>
 <link>http://media.rozhlas.cz/_audio/3526138.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3526138.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3526138.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3526138.mp3" type="audio/mpeg" length="25157632"/>
 <pubDate>Fri, 11 Dec 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Jindřich Vacek, překladatel a lingvista, laureát ceny Josefa Jungmana (4/5).</title>
 <link>http://media.rozhlas.cz/_audio/3526137.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3526137.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3526137.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3526137.mp3" type="audio/mpeg" length="27562240"/>
 <pubDate>Thu, 10 Dec 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Jindřich Vacek, překladatel a lingvista, laureát ceny Josefa Jungmana (3/5).</title>
 <link>http://media.rozhlas.cz/_audio/3526136.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3526136.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3526136.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3526136.mp3" type="audio/mpeg" length="27013504"/>
 <pubDate>Wed, 09 Dec 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Jindřich Vacek, překladatel a lingvista, laureát ceny Josefa Jungmana (2/5).</title>
 <link>http://media.rozhlas.cz/_audio/3526135.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3526135.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3526135.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3526135.mp3" type="audio/mpeg" length="27522304"/>
 <pubDate>Tue, 08 Dec 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Jindřich Vacek, překladatel a lingvista, laureát ceny Josefa Jungmana (1/5).</title>
 <link>http://media.rozhlas.cz/_audio/3526134.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3526134.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3526134.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3526134.mp3" type="audio/mpeg" length="27741184"/>
 <pubDate>Mon, 07 Dec 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Soňa Červená, operní pěvkyně, herečka a překladatelka (5/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/2697213.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/2697213.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/2697213.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/2697213.mp3" type="audio/mpeg" length="26803840"/>
 <pubDate>Fri, 04 Dec 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Soňa Červená, operní pěvkyně, herečka a překladatelka (4/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/2697217.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/2697217.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/2697217.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/2697217.mp3" type="audio/mpeg" length="26720512"/>
 <pubDate>Thu, 03 Dec 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Soňa Červená, operní pěvkyně, herečka a překladatelka (3/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/2697216.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/2697216.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/2697216.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/2697216.mp3" type="audio/mpeg" length="27021952"/>
 <pubDate>Wed, 02 Dec 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Soňa Červená, operní pěvkyně, herečka a překladatelka (2/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/2697215.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/2697215.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/2697215.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/2697215.mp3" type="audio/mpeg" length="27036160"/>
 <pubDate>Tue, 01 Dec 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Soňa Červená, operní pěvkyně, herečka a překladatelka (1/5). (repríza)</title>
 <link>http://media.rozhlas.cz/_audio/2697214.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/2697214.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/2697214.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/2697214.mp3" type="audio/mpeg" length="26840704"/>
 <pubDate>Mon, 30 Nov 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Leopold Pospíšil, americký antropolog a právník českého původu (5/5).</title>
 <link>http://media.rozhlas.cz/_audio/3517032.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3517032.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3517032.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3517032.mp3" type="audio/mpeg" length="24370432"/>
 <pubDate>Fri, 27 Nov 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Leopold Pospíšil, americký antropolog a právník českého původu (4/5).</title>
 <link>http://media.rozhlas.cz/_audio/3517031.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3517031.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3517031.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3517031.mp3" type="audio/mpeg" length="27382528"/>
 <pubDate>Thu, 26 Nov 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Leopold Pospíšil, americký antropolog a právník českého původu (3/5).</title>
 <link>http://media.rozhlas.cz/_audio/3517030.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3517030.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3517030.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3517030.mp3" type="audio/mpeg" length="27309952"/>
 <pubDate>Wed, 25 Nov 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Leopold Pospíšil, americký antropolog a právník českého původu (2/5).</title>
 <link>http://media.rozhlas.cz/_audio/3517029.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3517029.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3517029.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3517029.mp3" type="audio/mpeg" length="27206656"/>
 <pubDate>Tue, 24 Nov 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Leopold Pospíšil, americký antropolog a právník českého původu (1/5).</title>
 <link>http://media.rozhlas.cz/_audio/3517028.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3517028.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3517028.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3517028.mp3" type="audio/mpeg" length="25466752"/>
 <pubDate>Mon, 23 Nov 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>František Hamza, zakladatel dětské léčebny v Luži, lékař a humanista (5/5).</title>
 <link>http://media.rozhlas.cz/_audio/3501908.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3501908.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3501908.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3501908.mp3" type="audio/mpeg" length="22484224"/>
 <pubDate>Fri, 06 Nov 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>František Hamza, zakladatel dětské léčebny v Luži, lékař a humanista (4/5).</title>
 <link>http://media.rozhlas.cz/_audio/3501907.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3501907.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3501907.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3501907.mp3" type="audio/mpeg" length="20176000"/>
 <pubDate>Thu, 05 Nov 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>František Hamza, zakladatel dětské léčebny v Luži, lékař a humanista (3/5).</title>
 <link>http://media.rozhlas.cz/_audio/3501906.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3501906.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3501906.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3501906.mp3" type="audio/mpeg" length="21675520"/>
 <pubDate>Wed, 04 Nov 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>František Hamza, zakladatel dětské léčebny v Luži, lékař a humanista (2/5).</title>
 <link>http://media.rozhlas.cz/_audio/3501905.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3501905.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3501905.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3501905.mp3" type="audio/mpeg" length="22766848"/>
 <pubDate>Tue, 03 Nov 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>František Hamza, zakladatel dětské léčebny v Luži, lékař a humanista (1/5).</title>
 <link>http://media.rozhlas.cz/_audio/3501904.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3501904.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3501904.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3501904.mp3" type="audio/mpeg" length="21138688"/>
 <pubDate>Mon, 02 Nov 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Milan Richter, slovenský básník, překladatel, dramatik a bývalý diplomat ve Skandinávii (5/5).</title>
 <link>http://media.rozhlas.cz/_audio/3495840.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3495840.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3495840.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3495840.mp3" type="audio/mpeg" length="26911744"/>
 <pubDate>Fri, 30 Oct 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Milan Richter, slovenský básník, překladatel, dramatik a bývalý diplomat ve Skandinávii (4/5).</title>
 <link>http://media.rozhlas.cz/_audio/3495839.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3495839.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3495839.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3495839.mp3" type="audio/mpeg" length="26780800"/>
 <pubDate>Thu, 29 Oct 2015 11:30:00 +0100</pubDate>
 </item>
 <item>
 <title>Milan Richter, slovenský básník, překladatel, dramatik a bývalý diplomat ve Skandinávii (3/5).</title>
 <link>http://media.rozhlas.cz/_audio/3495838.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3495838.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3495838.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3495838.mp3" type="audio/mpeg" length="27728896"/>
 <pubDate>Wed, 28 Oct 2015 00:10:00 +0100</pubDate>
 </item>
 <item>
 <title>Milan Richter, slovenský básník, překladatel, dramatik a bývalý diplomat ve Skandinávii (2/5).</title>
 <link>http://media.rozhlas.cz/_audio/3495837.mp3</link>
 <guid>http://media.rozhlas.cz/_audio/3495837.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3495837.mp3" type="audio/mpeg"/>
+<enclosure url="http://media.rozhlas.cz/_audio/3495837.mp3" type="audio/mpeg" length="27425536"/>
 <pubDate>Tue, 27 Oct 2015 11:30:00 +0100</pubDate>
 </item>
 </channel>
