@@ -121,6 +121,10 @@ func renderChannelWithItems(items: [AudioItem]) {
     print("<itunes:category text=\"Society & Culture\">")
     print"<itunes:category text=\"Personal Journals\"/>")
     print("</itunes:category>")
+    print("<itunes:owner>")
+    print("<itunes:name>Tomáš Znamenáček</itunes:name>")
+    print("<itunes:email>tomas.znamenacek@gmail.com</itunes:email>")
+    print("</itunes:owner>")
 
     print("<language>cs</language>")
     print("<lastBuildDate>\(RFC822DateFormatter.stringFromDate(NSDate()))</lastBuildDate>")
