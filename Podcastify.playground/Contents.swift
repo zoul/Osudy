@@ -107,18 +107,27 @@ func renderAudioItem(item: AudioItem) {
 }
 
 func renderChannelWithItems(items: [AudioItem]) {
+
     print("<?xml version=\"1.0\" encoding=\"UTF-8\"?>")
     print("<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\">")
+
     print("<channel>")
     print("<title>Osudy</title>")
     print("<description>Autentické vzpomínky významných a zajímavých osobností zaznamenané na mikrofon a memoárová literatura převážně nežijících a zahraničních autorů čtená herci. Ojedinělá svědectví lidské paměti.</description>")
     print("<link>http://zoul.github.io/Osudy/</link>")
+
     print("<itunes:image href=\"http://i.imgur.com/hIZLilw.jpg\"/>")
     print("<itunes:explicit>No</itunes:explicit>")
+    print("<itunes:category text=\"Society & Culture\">")
+    print"<itunes:category text=\"Personal Journals\"/>")
+    print("</itunes:category>")
+
     print("<language>cs</language>")
     print("<lastBuildDate>\(RFC822DateFormatter.stringFromDate(NSDate()))</lastBuildDate>")
     print("<atom:link href=\"http://zoul.github.io/Osudy/feed.xml\" rel=\"self\" type=\"application/rss+xml\" />")
+
     items.forEach(renderAudioItem)
+
     print("</channel>")
     print("</rss>")
 }
