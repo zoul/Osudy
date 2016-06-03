@@ -119,7 +119,7 @@ func renderChannelWithItems(items: [AudioItem]) {
 
     print("<itunes:image href=\"http://i.imgur.com/hIZLilw.jpg\"/>")
     print("<itunes:explicit>No</itunes:explicit>")
-    print("<itunes:category text=\"Society & Culture\">")
+    print("<itunes:category text=\"Society &amp; Culture\">")
     print("<itunes:category text=\"Personal Journals\"/>")
     print("</itunes:category>")
     print("<itunes:owner>")
