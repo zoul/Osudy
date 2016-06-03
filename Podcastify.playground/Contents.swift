@@ -14,6 +14,7 @@ struct AudioItem {
     let id: String
     let text: String
     let mediaURL: NSURL
+    let fileSize: Int
     let pubDate: NSDate
 }
 
@@ -61,6 +62,22 @@ func listAllItemNodesAtURL(URL: NSURL) -> [NSXMLNode] {
     return nodes
 }
 
+func getFileSizeForURL(URL: NSURL) -> Int {
+    let request = NSMutableURLRequest(URL: URL)
+    request.HTTPMethod = "HEAD"
+    let semaphore = dispatch_semaphore_create(0)
+    var size: Int = 0
+    let task = NSURLSession.sharedSession().dataTaskWithRequest(request) { data, response, error in
+        if let response = response {
+            size = Int(response.expectedContentLength)
+        }
+        dispatch_semaphore_signal(semaphore)
+    }
+    task.resume()
+    dispatch_semaphore_wait(semaphore, DISPATCH_TIME_FOREVER)
+    return size
+}
+
 func parseItemNode(node: NSXMLNode) -> AudioItem? {
 
     guard
@@ -74,8 +91,9 @@ func parseItemNode(node: NSXMLNode) -> AudioItem? {
 
     let title = rawTitle.stringByReplacingOccurrencesOfString(dateStamp, withString: "").trimWhitespace
     let mediaURL = NSURL(string: "http://media.rozhlas.cz/_audio/\(id).mp3")!
+    let mediaSize = getFileSizeForURL(mediaURL)
 
-    return AudioItem(id: id, text: title, mediaURL: mediaURL, pubDate: pubDate)
+    return AudioItem(id: id, text: title, mediaURL: mediaURL, fileSize: mediaSize, pubDate: pubDate)
 }
 
 func renderAudioItem(item: AudioItem) {
@@ -83,7 +101,7 @@ func renderAudioItem(item: AudioItem) {
     print("<title>\(item.text)</title>")
     print("<link>\(item.mediaURL)</link>")
     print("<guid>\(item.mediaURL)</guid>")
-    print("<enclosure url=\"\(item.mediaURL)\" type=\"audio/mpeg\"/>")
+    print("<enclosure url=\"\(item.mediaURL)\" type=\"audio/mpeg\" length=\"\(item.fileSize)\"/>")
     print("<pubDate>\(RFC822DateFormatter.stringFromDate(item.pubDate))</pubDate>")
     print("</item>")
 }
