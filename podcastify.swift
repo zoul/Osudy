@@ -1,7 +1,9 @@
+#!/usr/bin/env swift
+
 import Cocoa
 
 let pageSize = 10
-let maxPages = 10
+let maxPages = 1
 
 let radioDateFormatter = NSDateFormatter()
 radioDateFormatter.locale = NSLocale(localeIdentifier: "cs_CZ")
