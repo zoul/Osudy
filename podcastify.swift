@@ -1,6 +1,6 @@
 #!/usr/bin/env swift
 
-import Cocoa
+import Foundation
 
 let pageSize = 10
 let maxPages = 1
