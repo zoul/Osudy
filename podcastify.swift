@@ -3,7 +3,7 @@
 import Foundation
 
 let pageSize = 10
-let maxPages = 1
+let maxPages = 10
 
 let radioDateFormatter = NSDateFormatter()
 radioDateFormatter.locale = NSLocale(localeIdentifier: "cs_CZ")
