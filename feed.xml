@@ -15,8 +15,15 @@
 <itunes:email>tomas.znamenacek@gmail.com</itunes:email>
 </itunes:owner>
 <language>cs</language>
-<lastBuildDate>Fri, 09 Sep 2016 16:06:20 +0200</lastBuildDate>
+<lastBuildDate>Sun, 11 Sep 2016 12:58:19 +0200</lastBuildDate>
 <atom:link href="http://zoul.github.io/Osudy/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Jindřich Štreit, dokumentární fotograf a pedagog (5/5).</title>
+<link>http://media.rozhlas.cz/_audio/3699687.mp3</link>
+<guid>http://media.rozhlas.cz/_audio/3699687.mp3</guid>
+<enclosure url="http://media.rozhlas.cz/_audio/3699687.mp3" type="audio/mpeg" length="26579584"/>
+<pubDate>Fri, 09 Sep 2016 11:30:00 +0200</pubDate>
+</item>
 <item>
 <title>Jindřich Štreit, dokumentární fotograf a pedagog (4/5).</title>
 <link>http://media.rozhlas.cz/_audio/3699686.mp3</link>
@@ -709,13 +716,6 @@
 <guid>http://media.rozhlas.cz/_audio/2849246.mp3</guid>
 <enclosure url="http://media.rozhlas.cz/_audio/2849246.mp3" type="audio/mpeg" length="26831104"/>
 <pubDate>Mon, 22 Feb 2016 11:30:00 +0100</pubDate>
-</item>
-<item>
-<title>Zuzana Justman, roz. Pick, filmová dokumentaristka, překladatelka a spisovatelka, která přežila Terezín a v roce 1948 opustila Československo (5/5).</title>
-<link>http://media.rozhlas.cz/_audio/3569730.mp3</link>
-<guid>http://media.rozhlas.cz/_audio/3569730.mp3</guid>
-<enclosure url="http://media.rozhlas.cz/_audio/3569730.mp3" type="audio/mpeg" length="26099200"/>
-<pubDate>Fri, 19 Feb 2016 11:30:00 +0100</pubDate>
 </item>
 </channel>
 </rss>
