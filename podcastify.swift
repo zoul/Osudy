@@ -5,25 +5,25 @@ import Foundation
 let pageSize = 10
 let maxPages = 10
 
-let radioDateFormatter = NSDateFormatter()
-radioDateFormatter.locale = NSLocale(localeIdentifier: "cs_CZ")
+let radioDateFormatter = DateFormatter()
+radioDateFormatter.locale = Locale(identifier: "cs_CZ")
 radioDateFormatter.dateFormat = "d.M.yyyy hh:mm"
 
-let RFC822DateFormatter = NSDateFormatter()
+let RFC822DateFormatter = DateFormatter()
 RFC822DateFormatter.dateFormat = "EEE, dd MMM yyyy HH:mm:ss Z"
 
 struct AudioItem {
     let id: String
     let text: String
-    let mediaURL: NSURL
+    let mediaURL: URL
     let fileSize: Int
-    let pubDate: NSDate
+    let pubDate: Date
 }
 
-extension NSXMLNode {
+extension XMLNode {
 
-    func nodeForXPath(path: String) -> NSXMLNode? {
-        if let candidates = try? nodesForXPath(path) {
+    func node(forXPath path: String) -> XMLNode? {
+        if let candidates = try? nodes(forXPath: path) {
             return candidates.first
         } else {
             return nil
@@ -34,16 +34,16 @@ extension NSXMLNode {
 extension String {
 
     var trimWhitespace: String {
-        return stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceAndNewlineCharacterSet())
+        return trimmingCharacters(in: .whitespaces)
     }
 }
 
-func listAllArchiveURLs() -> [NSURL] {
+func listAllArchiveURLs() -> [URL] {
     var pageNo = 0
-    var URLs: [NSURL] = []
+    var URLs: [URL] = []
     while true {
-        let pageURL = NSURL(string: "http://hledani.rozhlas.cz/iRadio/?porad[]=Osudy&offset=\(pageNo*pageSize)")!
-        let pageData = NSData(contentsOfURL: pageURL)
+        let pageURL = URL(string: "http://hledani.rozhlas.cz/iRadio/?porad[]=Osudy&offset=\(pageNo*pageSize)")!
+        let pageData = NSData(contentsOf: pageURL)
         let pageFound = (pageData != nil)
         if pageFound && pageNo < maxPages {
             URLs.append(pageURL)
@@ -55,45 +55,45 @@ func listAllArchiveURLs() -> [NSURL] {
     return URLs
 }
 
-func listAllItemNodesAtURL(URL: NSURL) -> [NSXMLNode] {
+func listAllItemNodesAtURL(URL: URL) -> [XMLNode] {
     guard
-        let document = try? NSXMLDocument(contentsOfURL: URL, options: NSXMLDocumentTidyHTML),
+        let document = try? XMLDocument(contentsOf: URL, options: Int(XMLNode.Options.documentTidyHTML.rawValue)),
         let rootElement = document.rootElement(),
-        let nodes = try? rootElement.nodesForXPath("//ul[@class='box-audio-archive']")
+        let nodes = try? rootElement.nodes(forXPath: "//ul[@class='box-audio-archive']")
         else { return [] }
     return nodes
 }
 
-func getFileSizeForURL(URL: NSURL) -> Int {
-    let request = NSMutableURLRequest(URL: URL)
-    request.HTTPMethod = "HEAD"
-    let semaphore = dispatch_semaphore_create(0)
+func getFileSize(for URL: URL) -> Int {
+    var request = URLRequest(url: URL)
+    request.httpMethod = "HEAD"
+    let semaphore = DispatchSemaphore.init(value: 0)
     var size: Int = 0
-    let task = NSURLSession.sharedSession().dataTaskWithRequest(request) { data, response, error in
+    let task = URLSession.shared.dataTask(with: request) { data, response, error in
         if let response = response {
             size = Int(response.expectedContentLength)
         }
-        dispatch_semaphore_signal(semaphore)
+        semaphore.signal()
     }
     task.resume()
-    dispatch_semaphore_wait(semaphore, DISPATCH_TIME_FOREVER)
+    _ = semaphore.wait(timeout: .distantFuture)
     return size
 }
 
-func parseItemNode(node: NSXMLNode) -> AudioItem? {
+func parseItemNode(node: XMLNode) -> AudioItem? {
 
     guard
-        let rawTitle = node.nodeForXPath(".//*[@class='title']")?.stringValue,
-        let dateStamp = node.nodeForXPath(".//*[@class='title']/*[@class='date']")?.stringValue,
-        let link = node.nodeForXPath(".//*[@class='action action-player']/*/@href")?.stringValue,
-        let pubDate = radioDateFormatter.dateFromString(dateStamp.trimWhitespace),
-        let streamingURL = NSURL(string: link),
-        let id = streamingURL.lastPathComponent
+        let rawTitle = node.node(forXPath: ".//*[@class='title']")?.stringValue,
+        let dateStamp = node.node(forXPath: ".//*[@class='title']/*[@class='date']")?.stringValue,
+        let link = node.node(forXPath: ".//*[@class='action action-player']/*/@href")?.stringValue,
+        let pubDate = radioDateFormatter.date(from: dateStamp.trimWhitespace),
+        let streamingURL = URL(string: link)
         else { return nil }
 
-    let title = rawTitle.stringByReplacingOccurrencesOfString(dateStamp, withString: "").trimWhitespace
-    let mediaURL = NSURL(string: "http://media.rozhlas.cz/_audio/\(id).mp3")!
-    let mediaSize = getFileSizeForURL(mediaURL)
+    let id = streamingURL.lastPathComponent
+    let title = rawTitle.replacingOccurrences(of: dateStamp, with: "").trimWhitespace
+    let mediaURL = URL(string: "http://media.rozhlas.cz/_audio/\(id).mp3")!
+    let mediaSize = getFileSize(for: mediaURL)
 
     return AudioItem(id: id, text: title, mediaURL: mediaURL, fileSize: mediaSize, pubDate: pubDate)
 }
@@ -104,11 +104,11 @@ func renderAudioItem(item: AudioItem) {
     print("<link>\(item.mediaURL)</link>")
     print("<guid>\(item.mediaURL)</guid>")
     print("<enclosure url=\"\(item.mediaURL)\" type=\"audio/mpeg\" length=\"\(item.fileSize)\"/>")
-    print("<pubDate>\(RFC822DateFormatter.stringFromDate(item.pubDate))</pubDate>")
+    print("<pubDate>\(RFC822DateFormatter.string(from: item.pubDate))</pubDate>")
     print("</item>")
 }
 
-func renderChannelWithItems(items: [AudioItem]) {
+func renderChannel(items: [AudioItem]) {
 
     print("<?xml version=\"1.0\" encoding=\"UTF-8\"?>")
     print("<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\">")
@@ -130,7 +130,7 @@ func renderChannelWithItems(items: [AudioItem]) {
     print("</itunes:owner>")
 
     print("<language>cs</language>")
-    print("<lastBuildDate>\(RFC822DateFormatter.stringFromDate(NSDate()))</lastBuildDate>")
+    print("<lastBuildDate>\(RFC822DateFormatter.string(from: Date()))</lastBuildDate>")
     print("<atom:link href=\"http://zoul.github.io/Osudy/feed.xml\" rel=\"self\" type=\"application/rss+xml\" />")
 
     items.forEach(renderAudioItem)
@@ -139,4 +139,4 @@ func renderChannelWithItems(items: [AudioItem]) {
     print("</rss>")
 }
 
-renderChannelWithItems(listAllArchiveURLs().flatMap(listAllItemNodesAtURL).flatMap(parseItemNode))
+renderChannel(items: listAllArchiveURLs().flatMap(listAllItemNodesAtURL).flatMap(parseItemNode))
