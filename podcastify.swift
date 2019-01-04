@@ -57,7 +57,7 @@ func listAllArchiveURLs() -> [URL] {
 
 func listAllItemNodesAtURL(URL: URL) -> [XMLNode] {
     guard
-        let document = try? XMLDocument(contentsOf: URL, options: Int(XMLNode.Options.documentTidyHTML.rawValue)),
+        let document = try? XMLDocument(contentsOf: URL, options: XMLNode.Options.documentTidyHTML),
         let rootElement = document.rootElement(),
         let nodes = try? rootElement.nodes(forXPath: "//ul[@class='box-audio-archive']")
         else { return [] }
